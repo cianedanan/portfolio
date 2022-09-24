@@ -2,12 +2,12 @@
 
 https://632e447b9dc9970928f7c7b6--cianenry-danan.netlify.app/
 
-Number and name of feature:
+Number and name of feature: Deploy and Extend Your Portfolio
 
 Estimate of time needed to complete: 5:00
 
 Start time: 4:30
 
-Finish time:
+Finish time: 9:38
 
-Actual time needed to complete:
+Actual time needed to complete: 4 hours and 8 minutes
