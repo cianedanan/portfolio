@@ -3,6 +3,7 @@ import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
 import vueIcon from "@iconify/icons-logos/vue";
+import video from '../space.mp4';
 
 class About extends Component {
   render() {
@@ -45,7 +46,7 @@ class About extends Component {
                 </span>
               </div>
             </div>
-
+            
             <div className="col-md-8 center">
               <div className="col-md-10">
                 <div className="card">
@@ -87,6 +88,9 @@ class About extends Component {
             </div>
           </div>
         </div>
+        <video autoPlay loop muted>
+            <source src={video} type='video/mp4' />
+          </video>
       </section>
     );
   }

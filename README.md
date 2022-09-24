@@ -6,7 +6,7 @@ Number and name of feature:
 
 Estimate of time needed to complete: 5:00
 
-Start time:
+Start time: 4:30
 
 Finish time:
 

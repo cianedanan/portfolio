@@ -82,33 +82,33 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": " 6.2022- present",
+        "company": "Safran",
+        "title": "CNC Machine Operator, Hot-Draper",
+        "years": " 3.2018 - 2.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Aerospace Manufacturing"
         ],
         "technologies": [
-          "JavaScript",
-          "HTML",
-          "CSS",
-          "Bootstrap",
-          "React"
+          "CEI",
+          "Zund",
+          "Drape Former",
+          "Microsft Excel"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "6.2022 - 2.2023",
         "mainTech": [
-          "Angular 7/8"
+          "Software Development"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "",
+          "HTML",
+          "CSS",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootsrap",
+          "Sass"
         ]
       }
     ]
