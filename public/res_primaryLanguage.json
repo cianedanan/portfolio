@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Hi, I’m Cianenry Danan. I’m a junior software developer looking to begin my professional career in the tech industry. Before I decided to change career paths I was working in the aerospace manufacturing industry. My main titles included CNC Machine Operator 2 and Hot Draper, but I was cross trained to learn many other roles including lay-up and tool-prep. I decided to learn Software Development, because I’ve always loved technology and I’ve always loved problem solving. I built my first PC in 2016 and since then I’ve been building custom PC’s and troubleshooting for my friends and family as a hobby. For me it’s such a good feeling fitting together individual pieces and seeing them run as a whole. Software development is like PC building except better because you get to create those individual pieces. I want to work for a fast growing tech company that’ll allow me to make an impact with my problem solving skills and my ability to work well in a team.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "This project utilizes DOM manipulation and renders a table that displays hourly totals, and daily totals based on maximum customers, minimum customers and average cookies. When the user inputs new data, the table updates",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/salmon-cookies-home.png",
+          "images/portfolio/animal-shelter/salmon-cookies-sales.png"
         ],
         "url": "",
         "technologies": [
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Future Project",
+        "startDate": "2022",
+        "description": "",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/cianedanan",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,12 +55,13 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Gitris",
+        "startDate": "2022",
+        "description": "This project is a working clone of the video game, Tetris. After the user finishes playing, they can input their initials and it'll display on the ranked leaderboard page. This site also comes with a how to play page and a history/funfacts page where the user can play a 7 question trivia game that displays the user's score.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "/images/portfolio/photography/gitris.png",
+          "/images/portfolio/photography/gitris-leaderboard.png"
+          
         ],
         "url": "https://github.com",
         "technologies": [
@@ -83,20 +84,16 @@
       {
         "company": "DefOpenSource",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": " 6.2022- present",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
+          "HTML",
+          "CSS",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React"
         ]
       },
       {
